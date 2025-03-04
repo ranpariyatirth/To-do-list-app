@@ -1,6 +1,6 @@
-# gdse_gdg
+# TO DO LIST app
 
-A new Flutter project.
+A first app in which i use and learn about model cration and also about local memory mangment using hive.
 
 ## Getting Started
 
